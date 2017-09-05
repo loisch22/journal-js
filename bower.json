@@ -1,0 +1,17 @@
+{
+  "name": "journal",
+  "description": "its a journal for user entries",
+  "main": "index.js",
+  "authors": [
+    "Parul Mishra Lois Choi"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
